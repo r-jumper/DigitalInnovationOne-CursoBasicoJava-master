@@ -2,19 +2,19 @@ package aulas.oo.part01.paradigma.exemplo001.exercicio;
 
 public class ExercicioCarro {
 
-    private int qtdPessoa = 3;
+    private int qtdPessoa = 0;
 
     public int getQtdPessoa(){
         return qtdPessoa;
     }
 
-    public String entraCarro(){
-        return "Pessoa entrando no carro";
+    public void entraCarro(int qtdPessoaAdd){
+        this.qtdPessoa += qtdPessoaAdd;
     }
 
-    public String saiCarro(){
+    public void saiCarro(int qtdPessoaAdd){
+        this.qtdPessoa -= qtdPessoaAdd;
 
-        return "Pessoa saindo do carro";
     }
 
 }

@@ -5,8 +5,21 @@ public class MetodoCarro {
     public static void main(String[] args) {
         ExercicioCarro carro = new ExercicioCarro();
 
-        System.out.println(carro.entraCarro());
+        int qtd;
 
-        System.out.println(carro.saiCarro());
+        qtd  = carro.getQtdPessoa();
+        System.out.println(qtd);
+
+        carro.entraCarro(1);
+        qtd = carro.getQtdPessoa();
+        System.out.println(qtd);
+
+        carro.entraCarro(3);
+        qtd = carro.getQtdPessoa();
+        System.out.println(qtd);
+
+        carro.saiCarro(2);
+        qtd = carro.getQtdPessoa();
+        System.out.println(qtd);
     }
 }
