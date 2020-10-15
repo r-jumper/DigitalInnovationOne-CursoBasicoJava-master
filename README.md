@@ -2,13 +2,14 @@
 
 https://digitalinnovation.one
 
-Tive a honra de fazer parceria com o pessoal da [Digital Innovation One](https://digitalinnovation.one), com dois módulos 
+Bootcamp Java Developer
+Java é uma das linguagens back-end mais utilizada por desenvolvedores de todo o mundo. Neste bootcamp você aprenderá o passo a passo da tecnologia e desenvolverá projetos 100% práticos. [Digital Innovation One](https://digitalinnovation.one), com dois módulos 
 de Java Básico: 
+
 - Orientação a Objetos com Java; e 
 - Trabalhando com Datas. 
 
-Durante essa parceria, preparei as apresentações e os vídeos apresentando esse conteúdo e disponibilizo aqui para quem 
-quiser aprender um pouco mais sobre o assunto. 
+Aulas ministradas pelo Prof. Marco PAulo Ollivier- Software Enginner @ OLX  
 
 ## [Modulo: Orientação a Objetos](https://medium.com/marcopollivier/java-basico-orientacao-a-objetos-com-java-6bca04020cbf)
 
