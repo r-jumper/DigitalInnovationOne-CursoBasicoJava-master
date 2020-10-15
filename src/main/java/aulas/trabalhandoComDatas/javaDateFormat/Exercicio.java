@@ -9,7 +9,7 @@ public class Exercicio {
 
             Date atual = new Date();
 
-            SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy - HH:MM:SS:mmm");
+            SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy - HH:mm:ss:mmm");
 
             String dataHoraFormatada = formatter.format(atual);
 
