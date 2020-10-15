@@ -8,10 +8,10 @@ public class Exercicio {
         gerente.getSalario();
 
         Supervisor supervisor = new Supervisor();
-        supervisor.setSalario(1000);
+        supervisor.getSalario();
 
         Atendente atendente = new Atendente();
-        supervisor.setSalario(1000);
+        supervisor.getSalario();
 
         System.out.println(gerente.calculoImposto());
         System.out.println(supervisor.calculoImposto());
