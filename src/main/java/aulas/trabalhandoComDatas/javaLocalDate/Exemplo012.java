@@ -10,7 +10,7 @@ public class Exemplo012 {
 
         LocalTime agora = LocalTime.now();
 
-        System.out.println(agora);
+        System.out.println("Hora Atual: " + agora);
         // 23:53:58.421
 
     }

@@ -10,7 +10,7 @@ public class Exemplo011 {
 
         LocalDate hoje = LocalDate.now();
 
-        LocalDate ontem = hoje.minusDays(1);
+        LocalDate ontem = hoje.minusDays(2);
 
         System.out.println(hoje);
         // 2019-07-14
